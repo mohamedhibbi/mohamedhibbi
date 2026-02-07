@@ -1,19 +1,34 @@
-# Hello World 👋
+# 👋 Hi, I'm Mohamed Hibbi
 
-My name is Mohamed, and I'm building my career in **Linux, Cloud, and DevOps**.  
-I'm currently preparing for the **RHCSA certification**, and after that I aim to continue toward the **RHCE inshaAllah**.
+> DevOps & Cloud Enthusiast | Linux Lover | Python & Bash Ninja-in-Training | Lifelong Learner
 
-I already hold **two AWS certifications** (AWS CLF & AWS SAA), and I'm expanding my skills through hands-on labs, scripting, Git, and web fundamentals.
+---
 
-This repository marks the beginning of my journey on GitHub — a place where I will store projects, labs, and everything I learn along the way.
+### 🌱 About Me
+I'm a 27-year-old passionate learner diving deep into DevOps, Cloud, and Linux. I love **automating, building pipelines, and mastering systems**.  
+Currently focused on:  
 
-### 🚀 What I'm Learning
-- Linux (RHEL, RHCSA → RHCE inshaAllah)
-- Git & GitHub
-- HTML, CSS, JavaScript
-- Cloud & DevOps  (AWS)
+- 🚀 **DevOps & Cloud:** AWS (CLF & SAA certified), aiming for AWS DevOps Engineer, Terraform, OpenShift.  
+- 🐧 **Linux:** RHCSA, RHCE (hands-on and exam-ready).  
+- 🥷 **Scripting & Automation:** Python & Bash.  
 
-### 🎯 My Goal
-To become a strong DevOps & Cloud Engineer, build real projects, and keep improving myself every day.
+---
 
-Thanks for checking out my first repo!
+### 🛠 Tech & Tools
+| DevOps & Cloud | Linux & SysAdmin | Programming & Automation |
+|----------------|-----------------|-------------------------|
+| AWS (CLF/SAA)  | RHEL 9/10       | Python                  |
+| Terraform      | Bash             | Shell Scripting         |
+| Docker & K8s   | Git & GitHub     | CI/CD Pipelines         |
+
+---
+
+### 🌟 My Goals
+- Become a certified **RHCSA & RHCE**.  
+- Achieve **CKA & CKAD** certifications.  
+- Master **Python & Bash** to become a true automation ninja.  
+- Build **scalable, cloud-native infrastructures** and contribute to open-source projects.  
+
+
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
+
