@@ -5,7 +5,7 @@
 ---
 
 ### 🌱 About Me
-I'm a 27-year-old passionate learner diving deep into DevOps, Cloud, and Linux. I love **automating, building pipelines, and mastering systems**.  
+I'm a passionate learner diving deep into DevOps, Cloud, and Linux. I love **automating, building pipelines, and mastering systems**.  
 Currently focused on:  
 
 - 🚀 **DevOps & Cloud:** AWS (CLF & SAA certified), aiming for AWS DevOps Engineer, Terraform, OpenShift.  
