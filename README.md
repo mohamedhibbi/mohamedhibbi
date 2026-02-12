@@ -1,34 +1,69 @@
 # 👋 Hi, I'm Mohamed Hibbi
 
-> DevOps & Cloud Enthusiast | Linux Lover | Python & Bash Ninja-in-Training | Lifelong Learner
+## RHCSA® | 2× AWS Certified | Junior Linux & Cloud Engineer
 
 ---
 
-### 🌱 About Me
-I'm a passionate learner diving deep into DevOps, Cloud, and Linux. I love **automating, building pipelines, and mastering systems**.  
-Currently focused on:  
+## 🌱 About Me
 
-- 🚀 **DevOps & Cloud:** AWS (CLF & SAA certified), aiming for AWS DevOps Engineer, Terraform, OpenShift.  
-- 🐧 **Linux:** RHCSA, RHCE (hands-on and exam-ready).  
-- 🥷 **Scripting & Automation:** Python & Bash.  
+I'm a passionate self-learner focused on building strong foundations in **Linux, DevOps, and Cloud Engineering**.
+I enjoy working close to the system, automating tasks, and understanding how infrastructure really works under the hood.
+
+Recently achieved:
+
+* ✅ **RHCSA (Red Hat Certified System Administrator)**
+* ✅ AWS Certified Cloud Practitioner (CLF)
+* ✅ AWS Certified Solutions Architect – Associate (SAA)
+
+Currently focused on:
+
+* 🚀 Advancing toward **RHCE (Red Hat Certified Engineer)**
+* ☁️ Deepening AWS knowledge (DevOps track)
+* 🏗 Infrastructure as Code with Terraform
+* 🔁 Automation using Python & Bash
+* 🐳 Containers & OpenShift
 
 ---
 
-### 🛠 Tech & Tools
-| DevOps & Cloud | Linux & SysAdmin | Programming & Automation |
-|----------------|-----------------|-------------------------|
-| AWS (CLF/SAA)  | RHEL 9/10       | Python                  |
-| Terraform      | Bash             | Shell Scripting         |
-| Docker & K8s   | Git & GitHub     | CI/CD Pipelines         |
+## 🛠 Tech & Tools
+
+### ☁️ DevOps & Cloud
+
+* AWS (CLF / SAA)
+* Terraform
+* Docker
+* Kubernetes (learning path)
+* CI/CD Concepts
+
+### 🐧 Linux & Systems
+
+* RHEL 9 / 10
+* System Administration
+* Networking & Storage
+* SELinux
+* Podman & Containers
+* Shell Scripting
+
+### 🧠 Programming & Automation
+
+* Python (automation & scripting focus)
+* Bash
+* Git & GitHub
 
 ---
 
-### 🌟 My Goals
-- Become a certified **RHCSA & RHCE**.  
-- Achieve **CKA & CKAD** certifications.  
-- Master **Python & Bash** to become a true automation ninja.  
-- Build **scalable, cloud-native infrastructures** and contribute to open-source projects.  
+## 🎯 2026 Goals
 
+* 🔥 Achieve **RHCE**
+* 📦 Earn **CKA / CKAD** certifications
+* 🧩 Strengthen system design & troubleshooting skills
+* 🤝 Contribute to open-source projects
+* 🚀 Build real-world cloud-native and automated infrastructures
+
+---
+
+## 💡 Philosophy
 
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
 
+I believe consistency beats intensity. One step every day. Always learning.
