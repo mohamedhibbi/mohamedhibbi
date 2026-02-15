@@ -67,3 +67,8 @@ Currently focused on:
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
 
 I believe consistency beats intensity. One step every day. Always learning.
+
+<img width="150" height="150" alt="red-hat-certified-system-administrator-rhcsa (1)" src="https://github.com/user-attachments/assets/fead5e0e-1e1d-45b1-a7ed-3f57d07a247e" />  <img width="150" height="150" alt="aws-certified-cloud-practitioner (2)" src="https://github.com/user-attachments/assets/10b1d859-ac97-45c0-a67a-d1edf89a2f5a" />  <img width="150" height="150" alt="aws-certified-solutions-architect-associate (2)" src="https://github.com/user-attachments/assets/61967c80-cca9-437d-861d-c58b86fd22e7" />
+
+
+
